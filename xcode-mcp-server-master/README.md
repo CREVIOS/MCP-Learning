@@ -1,7 +1,5 @@
 # Xcode MCP Server
 
-<img src="xcode_icon.svg" width="100" height="100" alt="Xcode MCP Server Icon">
-
 A Model Context Protocol (MCP) server that provides Xcode integration capabilities for Large Language Models (LLMs). This server enables AI assistants to interact with Xcode projects, manage iOS simulators, and perform various Xcode-related tasks.
 
 ## Use Cases
@@ -160,20 +158,5 @@ The server handles various error cases gracefully:
 - File access permissions
 - Build and test failures
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with the Model Context Protocol SDK
-- Integrates with Xcode and iOS development tools
-- Inspired by the need for AI-assisted iOS development
